@@ -1,0 +1,6 @@
+{
+  "name": "Anshin Life (まもり AI)",
+  "description": "iOS app suite and SwiftUI design system for senior care, AI medication scanning, and caregiver monitoring in Japan.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
